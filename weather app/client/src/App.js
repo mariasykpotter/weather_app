@@ -5,8 +5,6 @@ import {MainPage} from './pages/MainPage'
 import 'materialize-css'
 import './font/Rimouski.css'
 import './index.css'
-import {Map, TileLayer} from "react-leaflet";
-
 const API_key = "2050604e9f3fe6c87cc830e26c8f53dc";
 const KELVIN = 273.15;
 let scale = '°C';
